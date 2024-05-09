@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+border-bottom: 1px solid #d4d2d2;
+}
+.header{
+width: 90%;
+margin: auto;
+overflow: hidden;
+}
+.logo{width: 12%;float: left;}
+.logo img{
+    width: 100%;
+}
+.header nav{
+    width: 46%;
+    float: right;
+    overflow: hidden;
+}
+
+.header nav ul{float: right;} 
+.header nav ul li{   
+list-style: none;
+float: left;
+}
+.header nav ul li a{
+
+text-decoration: none;
+
+margin: 6px 14px;
+
+display: inline-block;
+}
+.header nav ul li:last-child a{   
+ margin-right: 0;
+}
+.banner{
+
+width: 51%;
+
+margin: 0 auto;
+
+text-align: center;
+
+margin-top: 28px;
+
+margin-bottom: 28px;
+
+font-family: sans-serif;
+}
+.banner h1{
+
+font-size: 32px;
+
+color: #0f2656;
+
+font-weight: 700;
+}
+.banner h2{
+    
+font-size: 30px;
+    
+font-weight: 700;
+    
+color: #0084f4;
+    
+padding: 7px 0px;
+}
+.banner p{
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 19px;
+    
+word-spacing: 2px;
+    
+color: #0F2655;
+    
+padding-bottom: 20px;
+}
+.banner-img{
+
+width: 65%;
+
+margin: auto;
+}
+.banner-img img{
+   
+width: 100%;
+   
+padding-bottom: 25px;
+}
+.project{
+
+overflow: hidden;
+}
+.first-project{
+
+width: 49%;
+
+float: left;
+
+text-align: right;
+}
+.first-project h1{
+
+font-size: 32px;
+
+color: #f00909;
+
+font-weight: 700;
+}
+.first-project p{
+
+}
+.secent-project{
+
+width: 49%;
+
+float: right;
+
+text-align: left;
+}
+.secent-project h1{
+    
+}
+.creative{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.first-creative{
+
+width: 29%;
+
+float: left;
+
+background: #fdebed;
+
+text-align: center;
+
+padding: 10px;
+}
+.first-img{
+}
+.first-img img{
+    
+}
+.first-creative h3{
+
+}
+.first-creative p{
+
+}
+.secend-creative{
+
+width: 29%;
+
+float: left;
+
+background: #ebf9f4;
+
+text-align: center;
+
+margin-left: 12px;
+
+padding: 12px;
+}
+.secend-img{
+
+}
+.secend-img img{
+    
+}
+.secend-creative h3{
+
+}
+.secend-creative p{
+    
+}
+.third-creative{
+
+width: 29%;
+
+float: right;
+
+background: #fff7e8;
+
+text-align: center;
+
+padding: 15px;
+}
+.third-img{
+
+}
+.third-img img{
+    
+}
+.third-creative h3{
+
+}
+.third-creative p{
+
+}
+footer{
+
+background: #0084f4;
+
+text-align: center;
+
+padding: 8px;
+
+color: #c6c5c5;
+
+margin-top: 15px;
+}
+footer h3{
+   
+}
+footer h3 span{
+    
+color: #fff;
+}
+
+
+
